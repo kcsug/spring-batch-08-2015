@@ -1,0 +1,6 @@
+[submodule "khs-spring-batch-boot-example"]
+	path = khs-spring-batch-boot-example
+	url = https://github.com/in-the-keyhole/khs-spring-batch-boot-example
+[submodule "khs-spring-batch-example"]
+	path = khs-spring-batch-example
+	url = https://github.com/in-the-keyhole/khs-spring-batch-example

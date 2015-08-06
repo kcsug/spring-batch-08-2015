@@ -1,0 +1,10 @@
+The materials for http://www.meetup.com/kc-spring/events/223151822/[Spring Batch Technology Preview with Q&A with David Pitt]
+
+* https://github.com/in-the-keyhole/khs-spring-batch-example
+* https://github.com/in-the-keyhole/khs-spring-batch-boot-example
+
+This project uses https://git-scm.com/book/en/v2/Git-Tools-Submodules[git submodules]. To clone it use the `--recursive`:
+
+```
+$ git clone https://github.com/kcsug/spring-batch-08-2015.git --recursive
+```
